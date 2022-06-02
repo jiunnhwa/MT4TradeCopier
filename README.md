@@ -1,5 +1,6 @@
 # MT4TradeCopier #
-Copies and Replicates trade from Master MT4 to follower MT4 clients, using C# as a proxy server.
+Copies and Replicates trade from Master MT4 to follower MT4 clients, using C# console program to act as a distribution server.
+Original code was done with Visual Studio 2017. In 2022, this project can be re-written in Golang as a REST service, or using  websockets.
 
 ## TerminalFileCopier Deploy ##
 TCM will be placed in Master Trader terminal window.
