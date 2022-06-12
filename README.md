@@ -17,3 +17,9 @@ TermStarter is a WinForms program to provide an adminstrative panel to activate 
 For each follower's terminals, it will also ProcessFindByWindowTitle to poll whether the follower terminal is alive.
 
 <img src="https://github.com/jiunnhwa/MT4TradeCopier/blob/main/TermStarter/Screenshot/TermStarter%20-%20Window%20-%20Start.PNG" width=70% >
+
+
+## TermFileCopier - Console Window ##
+TermFileCopier acts as a proxy service to copy Master trade instructions to followers Mt4 clients' terminals.
+
+<img src="https://github.com/jiunnhwa/MT4TradeCopier/blob/main/TerminalFileCopier%20Console.PNG" width=70% >
